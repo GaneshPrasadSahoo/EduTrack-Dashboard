@@ -31,7 +31,7 @@ EduTrack Dashboard is a student performance tracking tool that allows educators 
 ## Usage
 Run the Streamlit app:
 ```sh
-streamlit run app.py
+streamlit run    main.py
 ```
 Then, open the provided local URL in your browser.
 
@@ -64,9 +64,6 @@ John Doe,85,A,Pass
 Jane Smith,72,B,Pass
 Alice Brown,49,C,Fail
 ```
-
-## License
-This project is licensed under the MIT License.
 
 ## Author
 Developed by **Ganesh Prasad Sahoo**.
